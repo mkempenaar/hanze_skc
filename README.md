@@ -2,6 +2,6 @@
 
 # hanze_skc
 
-Studentmateriaal voor de SKC Matchingsdagen - 2018
+Studentmateriaal voor de SKC Matchingsdagen - 2019
 
 Om te beginnen, klik op de *`launch binder`* knop hierboven om een interactieve sessie te starten met daarin de oefeningen. 
